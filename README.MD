@@ -1,0 +1,2 @@
+# Selenium Web Automation - Amazon Samsung TV Description Fetch
+This project is written in java and Selenium using TestNG , run the Test NG file to start the file automation. Docker is also configured, you can run it in your own environment. The Test Cases and framework is configured as System Independent as possible.
